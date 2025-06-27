@@ -13,6 +13,12 @@ header {
 
 section{
     background: rgb(223, 4, 4);
-    padding-bottom: 80px;
+    padding-bottom: 8top0px;
     padding-top: 80px;
+    display: flex;
+    justify-content: center
+}
+
+.video-lore {
+    margin-right
 }
