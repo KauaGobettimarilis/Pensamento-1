@@ -68,3 +68,8 @@ img {
     opacity: 0.5;
     height: 200px;
 }
+
+.lawsuit-videos img:hover {
+    opacity: 1.0;
+    border: 5px solid rgb(255, 0, 0);
+}
