@@ -40,3 +40,8 @@ img {
     display: flex;
     overflow-x: auto;
 }
+
+.lawsuit-videos {
+    display: flex;
+    overflow-x: auto;
+}
