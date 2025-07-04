@@ -38,7 +38,7 @@ img {
 
 .ruben-videos {
     display: flex;
-    overflow-x: auto;]
+    overflow-x: auto;
     gap: 20px;
 }
 
