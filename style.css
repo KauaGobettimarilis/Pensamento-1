@@ -42,6 +42,11 @@ img {
     gap: 20px;
 }
 
+.ruben {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 .lawsuit-videos {
     display: flex;
     overflow-x: auto;
