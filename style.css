@@ -18,6 +18,7 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
+    border-radius: 15px;
 }
 
 .video-title {
