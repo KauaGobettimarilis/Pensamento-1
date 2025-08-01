@@ -53,6 +53,16 @@ img {
     overflow-x: auto;
     gap: 20px;
 }
+    font-size: 20px;
+}
+
+img {
+    height: 225px;
+}
+
+.ruben-videos {
+    display: flex;
+    overflow-x: auto;
 
 .ruben-videos img {
     opacity: 0.5;
@@ -75,5 +85,9 @@ img {
 }
 
 .ruben h2 {
+    color: rgb(255, 187, 0)
+}
+
+.ruben-lawsuit h2 {
     color: rgb(255, 187, 0)
 }
