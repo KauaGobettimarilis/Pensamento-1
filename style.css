@@ -37,13 +37,13 @@ img {
     height: 225px;
 }
 
-.ruben-videos {
+.schlep-drama {
     display: flex;
     overflow-x: auto;
     gap: 20px;
 }
 
-.ruben {
+.schlep {
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -60,16 +60,16 @@ img {
     height: 225px;
 }
 
-.ruben-videos {
+.schlep-drama {
     display: flex;
     overflow-x: auto;
 
-.ruben-videos img {
+.schlep-drama img {
     opacity: 0.5;
     height: 200px;
 }
 
-.ruben-videos img:hover {
+.schlep-drama img:hover {
     opacity: 1.0;
     border: 5px solid rgb(255, 0, 0);
 }
@@ -84,7 +84,7 @@ img {
     border: 5px solid rgb(255, 0, 0);
 }
 
-.ruben h2 {
+.schlep h2 {
     color: rgb(255, 187, 0)
 }
 
